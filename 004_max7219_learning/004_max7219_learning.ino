@@ -17,13 +17,13 @@ void loopExample(int example);
 
 void setup() {
     // Set up based on the selected example
-    int selectedExample = 3;  // Change this value to 1, 2, or 3 to select different examples
+    int selectedExample = 1;  // Change this value to 1, 2, or 3 to select different examples
     setupExample(selectedExample);
 }
 
 void loop() {
     // Run the loop function based on the selected example
-    int selectedExample = 3;  // Change this value to 1, 2, or 3 to select different examples
+    int selectedExample = 1;  // Change this value to 1, 2, or 3 to select different examples
     loopExample(selectedExample);
 }
 
