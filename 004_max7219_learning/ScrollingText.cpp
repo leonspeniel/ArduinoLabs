@@ -7,7 +7,7 @@ void setupScrollingText(LedControl& lc) {
 }
 
 void loopScrollingText(LedControl& lc) {
-    scrollText(lc, "HELLO ");
+    scrollText(lc, "LEONS ");
 }
 
 void scrollText(LedControl& lc, String text) {
